@@ -1,5 +1,6 @@
 # BigNum
-This is first project I have done
+This is first project I have done.
+
 A naive big number multiplication[1] implemented by CUDA.
 
 Refer:
